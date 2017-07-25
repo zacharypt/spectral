@@ -2,12 +2,12 @@
 #
 
 # Site settings
-title: Spectral
+title: A BETTER WORLD
 description: |
   Another fine responsive  
   site template freebie  
   crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+owner: Zachary Zhang # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
