@@ -50,7 +50,9 @@ social:
   #forumbee:
   #tripadvisor:
     #amazon:
- # Build settings
+
+# Build settings
+ 
  permalink: /:year/:month/:day/:title.html
  markdown: kramdown
-
+ highlighter: rouge
