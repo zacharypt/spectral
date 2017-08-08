@@ -52,12 +52,10 @@ social:
     #amazon:
 
 # Build settings
- 
  permalink: /:year/:month/:day/:title.html
  markdown: kramdown
  highlighter: rouge
- 
-  mathjax: disabled
+ mathjax: disabled
   sass:
      style: compressed
  #sass:		
