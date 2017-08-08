@@ -51,12 +51,7 @@ social:
   #tripadvisor:
     #amazon:
 
-# Build settings
- permalink: /:year/:month/:day/:title.html
+ # Build settings
  markdown: kramdown
- highlighter: rouge
- mathjax: disabled
-  sass:
-     style: compressed
  #sass:		
  #  style: compressed
