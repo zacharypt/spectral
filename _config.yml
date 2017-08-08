@@ -60,3 +60,5 @@ social:
   mathjax: disabled
   sass:
      style: compressed
+ #sass:		
+ #  style: compressed
