@@ -18,41 +18,40 @@ social:
   google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   url: "http://vno.onevcat.com"
--  #flickr:
- -  #instagram:
- -  #youtube-square:
- -  #spotify:
- -  #stack-overflow:
- -  #vimeo:
- -  #reddit:
- -  #stubleupon:
- -  #delicious:
- -  #pied-piper:
- -  #digg:
- -  #soundcloud:
- -  #deviantart:
- -  #angellist:
- -  #tumblr-square:
- -  #stackexchange:
- -  #weibo:
- -  #trello:
- -  #foursquare:
- -  #linux:
- -  #bitbucket-square:
- -  #vk:
- -  #slack:
- -  #vine:
- -  #weixin:
- -  #yelp:
- -  #skyatlas:
- -  #leanpub:
- -  #connectdevelop:
- -  #ils:
- -  #forumbee:
- -  #tripadvisor:
- -  #amazon:
- -
- -# Build settings
- -permalink: /:year/:month/:day/:title.html
- -markdown: kramdown
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:  
+  #reddit:
+  #stubleupon:
+  #delicious: 
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+    #amazon:
+ # Build settings
+ permalink: /:year/:month/:day/:title.html
+ markdown: kramdown
 
