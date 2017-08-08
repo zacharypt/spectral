@@ -56,3 +56,7 @@ social:
  permalink: /:year/:month/:day/:title.html
  markdown: kramdown
  highlighter: rouge
+ 
+  mathjax: disabled
+  sass:
+     style: compressed
